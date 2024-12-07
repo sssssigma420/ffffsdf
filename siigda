@@ -69,7 +69,7 @@ local library = {
 
 library.themes = {
     {
-        name = 'Niggasense',
+        name = 'Default',
         theme = {
             ['Accent']                    = fromrgb(147,184,26);
             ['Background']                = fromrgb(17,17,17);
